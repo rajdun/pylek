@@ -22,7 +22,7 @@ function draw() {
 
 class Ball {
     constructor(x, y, i) {
-        this.img = loadImage("/ball.png");
+        this.img = loadImage("ball.png");
         this.name = "Testowa piłka " + i;
         this.x = x;
         this.y = y;
