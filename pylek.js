@@ -26,7 +26,7 @@ function draw() {
 
 class Ball {
     constructor() {
-        this.img = loadImage("/ball.png");
+        this.img = loadImage("https://rajdun.github.io/pylek/ball.png");
     }
 }
 
